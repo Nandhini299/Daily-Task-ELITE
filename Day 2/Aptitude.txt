@@ -1,0 +1,32 @@
+
+1. Solution:
+   cost = 400, sell = 480, Profit_perc = ?
+   Profit = SP - CP => 480 - 400 => 80
+   Formula : (Profit x 100)/ CP 
+             (80 x 100)/ 400 = 20%
+
+2. Solution:
+   cost = 1500, sell = 1200, Loss_Perc = ?
+   Loss = CP - SP => 1500 - 1200 => 300
+   Formula: (Loss x 100)/CP 
+          = (300 x 100)/ 1500 => 20%
+3. Solution:
+   Let, Assume cost = 100
+   Market Price = Cost + 20% => 100 + 20 ==> 120
+   Selling Price:
+         Dis = 10% of 120 = 12
+         SP = MP - Discount => 120 - 12 ==> 108
+Profit = SP - CP => 108 - 100 = 8
+Profit Percentage = (Profit x 100)/ CP
+                  = (8 x 100)/ 100 => 8%
+
+4. Solution:
+   cost = 100, quantity = 5
+   Cost_price = 100/5 => 20
+   Profit per  pen = 20 x 25% => 5
+   SP = CP + Porfit = 20 + 5 = 25
+
+5. Solution:
+   sell = 900, loss = 10%, CP = ?
+   CP = SP x 100/ 100 - loss
+      = 900x 100/ 100 - 10 => 90000 /9000 90 = 1000
