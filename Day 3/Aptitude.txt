@@ -1,0 +1,26 @@
+1. Solution:
+   A:B = 3:5, B:C = 2:3, A:C= ?
+   Multiply:
+   A/B x B/C = 3/5 x 2/3 => 6/15
+   Common diviser = 3 => 2/5
+
+2. Solution:
+   Ratio = 2:3:5, Amount = 1000
+      2+3+5 = 10 => 1000/10 = 100
+    Multiply 100:
+      200Rs, 300Rs,500Rs
+
+3. Solution:
+   The cost of 4 pens = 40
+   Cost of per pen = 40/4 => 10
+   The cost for 10 pens = 10 x 10 => 100Rs
+
+4. Solution:
+   Boys : Girls = 3 : 2, Tot students = 50
+        3 + 2 = 5 => 50/5 = 10
+    Multiply 10:
+        30 + 20 = 50. So the Numberr of Girls = 20
+
+5. Solution:
+   A : B = 4 : 7, B = 21, A = ?
+       4/7 x 21 = 4 x 21/7 => 4 x 3 ==> 12
