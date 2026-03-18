@@ -1,3 +1,7 @@
 1. It is Efficient for Problem Solving, because it allows us to organize, datas are stored in structure format.
 2. Increase Time Complexity, Memmory Inefficiency
 3. Speed, Scalability.
+
+1. He goes to college daily.
+2. She doesn't likes coding.
+3. We were solving problems.
