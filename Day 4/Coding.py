@@ -13,6 +13,7 @@ print(res)
 
 # First Non-Repeating String
 s = input() #apple
+count = {}
 
 for i in s:
     count[i] = count.get(i,0) + 1
