@@ -1,0 +1,34 @@
+TIMEE & WORK 
+
+1. Solution:
+   A = 10days, B = 15days 
+   = 1/10 + 1/15 
+  comman div: 5 x 2 x 3 => 10 x 3 ==> 30
+   = 3/30 + 2/30 = 6/30 ==> 1/6
+  Therfore, Working A and B will take 6days
+
+2. Solution:
+   A = 6days , B = 8days, C = 12days
+   = 1/6 + 1/8 + 1/12
+   common div : 2 x 3 x 4 = 24
+   = 4/24 + 3/24 + 2/24 = 9/24 ==> 3/8 
+  1/3/8 => 8/3 ==> 2 2/3days
+
+3. Solution:
+   The work A has done = 1/12 x 4 => 1/3
+    Since there is only one work A and B are working,
+            1 - 1/3 => 2/3
+            A = 1/3 , B = 2/3 - 1/3 => 1/3
+      B alone = 1/3 for 4days => 1/3 / 4 ==> 1/12
+      B = 12days
+
+4. Solution:
+    5 works can complete a work in 8 days,
+      5 x 8 = y x 4
+      y = 40 / 4 => y ==> 10 workers
+
+5. Solution:
+   Pipe fills = 6h, empty = 8h
+      1/6 - 1/8
+   Common div: 24,
+      4/24 - 3/24 => 1/24 ==> 24hours
