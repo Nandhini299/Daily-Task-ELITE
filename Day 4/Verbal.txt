@@ -1,0 +1,9 @@
+VERBAL:
+1. It is critical in Large-scale application, companies may have heavy scalable architectures.
+2. The ability of app to handel more data without crashing it.
+3. Amazon, Google, Spotify.
+
+GRAMMER :
+1. He didn't know the answer.
+2. She is much smater than him.
+3. They have completed the task.
