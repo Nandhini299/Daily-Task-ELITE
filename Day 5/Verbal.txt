@@ -1,0 +1,9 @@
+VERBAL 
+1. It plays an optimum system performance, it is in structure method which is easy to understand ,it contains less memory(Time Complexity), Step by step to solve the problem
+2. It may use more memory, Slow the process
+3. It modifies a system, algorithm, or code to make it more efficient.
+
+Grammer
+1. He has been working here for 2 years.
+2. She did not write the code.
+3. They are preparing for interviews.
