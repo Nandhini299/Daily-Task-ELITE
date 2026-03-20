@@ -1,0 +1,33 @@
+APTITUDE - (SPEED, TIME & DISTANCE)
+1. Solution: 
+   t = 1h, sp = ?, d = 60km
+   SPEED = DISTANCE / TIME = 60/1 = 60
+   m/s => 5/8 => 5/18 x 60 = 16.66m/s
+
+2. Solution:
+   d1 = 40 km/h, t1 = 2h
+   d2 = 60 km/h , t2 = 2h
+   AVG SPEED = TOT DISTANCE / TOT TIME
+     calculating the dis = speed x time 
+                         = 40 x 2 => 80
+                         = 60 x 2 =  120 ==> the total distaance = 200 km/h 
+     tot dis = 200km/h, tot time = 4h
+     Avg Speed = 200 / 4 => 50 km/h
+
+3. Solution:
+    train1 = 50 km/h , train2 = 70km/h 
+    Relative speed = train1 + train2
+                   = 50 + 70 => 120 km/h
+
+4. Solution:
+    time = ? , Time = dis / speed
+    Half Distance = 15/2 => 7.5 km
+    TIME = DIS / SP
+    Walking Time = 7.5/5 => 1.5h 
+    Running Time = 7.5 / 10 => 0.75h => 1.5 + 0.75 ==> 2.25 => 0.25 x 60 = 15
+    total time = 2h 15min
+
+5. Solution:
+   t = 10s , d = 100, s = ?
+   Speed = Dis / Time
+   s = 100 / 10 => 10 m/s
