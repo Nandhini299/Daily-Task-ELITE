@@ -1,0 +1,9 @@
+VERBAL 
+1. It is effiecent storage, it maintain the massive amount of datas for building software products
+2. The information that be accurate, uniformity accross all the devices
+3. Because of poor designed database cause slow performance operation, and it will affect the products
+
+GRAMMAR:
+1. She does not understand SQL joins.
+2. He was explaining the database schema.
+3. They had written the program successfully.
