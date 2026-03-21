@@ -1,0 +1,28 @@
+APTITUDE (Perumutation & Combination)
+
+1. Solution:
+   n = 7, r = 3
+   Permutation = n!/(n-r)! 
+               = 7! / (7-3)! => 7! / 4!
+               = 7 x 6 x 5 x 4! / 4! => 7 x 6 x 5 ==> 210 ways
+
+2. Solution:
+   n = 4 , r = 2
+   Permutation = n!/(n-r)! 
+               = 4! / (4 - 2)! => 4! / 2!
+               = 4 x 3 x 2! / 2! => 12
+
+3. Solution:
+   n = 6 , r = 2
+   Perutation = n!/(n-r)! 
+              = 6! / 4! => 30 ways
+
+4. Solution:
+   Perm = n! , n = 4
+        = 4! => 4 x 3 x 2 x 1 ==> 24 
+
+5. Solution:
+   n = 8, r = 4
+   Perutation = n!/r(n-r)! 
+              = 8! / 4! x 4! => 8 x 7 x 6 x 5/ 4 x 3 x 2 
+              = 1680 / 24 => 70
