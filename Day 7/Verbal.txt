@@ -1,0 +1,12 @@
+VERBAL 
+
+1. To manage hardware resoureces and stable environment for running application.
+2. To increase the computer performance and efficiency.
+3. The method by which the CPU decides which process to run.
+
+
+GRAMMER
+
+1. He doesn't know operating systems.
+2. She was learning data structures.
+3. They have solved the problem.
