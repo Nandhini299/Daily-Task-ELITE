@@ -15,7 +15,7 @@ PROBABILITY
 
 4. Solution:
    Two coins = {HH, HT, TH, TT}
-   The prob of getting two heads = 1 / 4 
+   The prob of getting two heads = 1/4 
 
 5. Solution:
    word = ENGINEER , tot = 8 , vowel = 4
