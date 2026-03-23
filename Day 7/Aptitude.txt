@@ -1,0 +1,22 @@
+PROBABILITY
+
+1. Solution:
+   prob = {H,T}
+   The prob of getting head = 1/2
+
+2. Solution:
+   dice = {1,2,3,4,5,6}, n(p) = 6
+   The probability of getting a num greater than 4 = 2/6 => 1/3
+
+3. Solution:
+   red = 3 balls, blue = 2 balls, tot = 5 balls
+   The prob of getting red balls = num of red balls/ tot balls
+                                 = 3/5
+
+4. Solution:
+   Two coins = {HH, HT, TH, TT}
+   The prob of getting two heads = 1 / 4 
+
+5. Solution:
+   word = ENGINEER , tot = 8 , vowel = 4
+   The prob of getting vowel from the word = 4/8 => 1/2
