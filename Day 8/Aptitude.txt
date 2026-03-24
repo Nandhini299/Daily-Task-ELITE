@@ -16,7 +16,7 @@ MIXTURE & AVERAGES
    The removed num = 150 - 126 => 24
 
 3. Solution:
-   milk : water => 3:2, if 10 liter water is added ratio becomes 3:4, find the initial quantity
+   milk : water => 3:2, if 10 liter water is added ratio becomes 3:4, initial quantity = ?
    The ratio after the water is mixed is 3:4, so the milk is same 
        milk = 3x, water = 2x 
        Formula = 3x / 2x + 10 = 3/4
@@ -25,3 +25,19 @@ MIXTURE & AVERAGES
 
        so, milk = 3x => 15, water = 10
        Total Quantity -> 10 + 15 => 25liter
+
+4. Solution:
+   Avg of first 20 numbers 
+   calculating the sum = n (n + 1) / 2
+                       = 20 (21) / 2 => 420 / 2 ==> 210
+   AVG = TOT / COUNT => 210 / 20 => 10.5
+
+5. Solution:
+   Age of 5 students = 18
+   Tot = Avg x Count 
+       = 5 x 18 => 90
+   Age of 6 students = 19
+   Tot = Avg x Count 
+       = 6 x 19 => 114 
+   Age of new student = 114 - 90 => 24 
+   
