@@ -1,0 +1,27 @@
+APTITUDE 
+MIXTURE & AVERAGES
+
+1. Solution:
+   Avg of 5num is 20, Tot sum = ?
+   Total Sum = Avg x Count 
+             = 20 x 5 
+             = 100
+
+2. Solution:
+   Avg of 10 num is 15, if one number is removed , the avg becomes 14. removed num =?
+   Total sum = 10 x 15 => 150
+   
+   The new tot sum = 9 x 14 => 126
+
+   The removed num = 150 - 126 => 24
+
+3. Solution:
+   milk : water => 3:2, if 10 liter water is added ratio becomes 3:4, find the initial quantity
+   The ratio after the water is mixed is 3:4, so the milk is same 
+       milk = 3x, water = 2x 
+       Formula = 3x / 2x + 10 = 3/4
+       => 4 (3x) = 3(2x+10)
+       => 12x = 6x + 30 => 6x = 30 => x = 30/6 => 5
+
+       so, milk = 3x => 15, water = 10
+       Total Quantity -> 10 + 15 => 25liter
