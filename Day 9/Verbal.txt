@@ -1,0 +1,10 @@
+Verbal
+
+1. An Algorithms are step-by-step procedures used to solve problems efficiently and it is a set of rules followed to complete a task.
+2. Efficent algorithms uses Time and Space complexity to solve an problem.
+3. It reduces Time, memory, errors.
+
+Grammer
+1. She doesn't like programming.
+2. He had written the code.
+3. They are working on algorithms.
