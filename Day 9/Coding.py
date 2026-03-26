@@ -12,6 +12,7 @@ for i in range(n):
       ar[j] = temp
 print(ar[-2])
 
+
 # FIBONACCI USING RECURSION
 # INPUT : 4 
 # OUTPUT : 0 1 1 2
@@ -20,5 +21,5 @@ def Fib(n):
     return 0
   elif n == 1:
     return 1
-    else:
-      return Fib(n-1) + Fib(n-2)
+  else:
+    return Fib(n-1) + Fib(n-2)
