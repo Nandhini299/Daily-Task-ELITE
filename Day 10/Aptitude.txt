@@ -1,0 +1,24 @@
+SPEED TIME & DISTANCE
+Aptitude 
+
+1. Solution: 
+   dis = 60km, time = 1hr, speed =?
+   SPEED = DIS/TIME => 60/1 => 60km/hr
+
+2. Solution:
+   speed = 50km/hr, how long it to travel 150km
+   TIME = D/S => 150/ 50 => 3hrs
+
+3. Solution:
+   sp = 5, time = 3, dis = ?
+   DIS = SP x TIME => 5 x 3 => 15km
+
+4. Solution:
+   relative speed = 40 + 60
+                  = 100km/hr
+
+5. Solution:
+   avg speed = tot dis / tot time 
+             = 2 x 60 x 40 / 40 + 60 => 4800 / 100 => 48km/hr
+   
+   
