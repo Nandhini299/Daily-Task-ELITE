@@ -1,0 +1,11 @@
+VERBAL:
+
+1. Binary Seach are works in sorted arrays.
+2. It compares the target value to the middle element of the list
+3. Yes , it is faster for large dataset
+
+GRAMMAR:
+
+1. He doesn't know binary search.
+2. She had completed the task.
+3. They are laearning algorithms.
